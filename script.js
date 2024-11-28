@@ -26,11 +26,11 @@ const addTask = () => {
         <input type="checkbox" class="task-check" >
         <span class="taskName">${taskName}</span>
         <button class="edit">
-            <img src="images/add_icon_green.png">
+            <img src="add_icon_green.png">
         </button>
 
         <button class="delete">
-            <img src="images/remove_icon_red.png">
+            <img src="remove_icon_red.png">
         </button>
 
     </div>`;

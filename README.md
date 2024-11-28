@@ -1,8 +1,9 @@
 # 🌟 **To-Do List Application** 🌟
 
-A **minimalist, responsive, and feature-packed To-Do List** application that helps you stay organized and productive. 🚀  
-Easily add, edit, complete, or delete tasks while tracking your progress. Tasks persist even after refreshing the page using **local storage**.
+### A **minimalist, responsive, and feature-packed To-Do List** application that helps you stay organized and productive. 🚀  
+### Easily add, edit, complete, or delete tasks while tracking your progress. Tasks persist even after refreshing the page using **local storage**.
 
+![appInterface.PNG](appInterface.PNG)
 ---
 
 ## 🎯 **Features**
@@ -19,6 +20,8 @@ Easily add, edit, complete, or delete tasks while tracking your progress. Tasks 
 
 ## 📂 **Project Structure**
 
+![alt text](image.png)
+
 ```plaintext
 To-Do-App/
 ├── index.html       # Main HTML file
@@ -34,8 +37,8 @@ To-Do-App/
 
 ## 🛠️ Technologies Used
 ``` 
-HTML5: For the structure and content.
-CSS3: For styling and layout.
-JavaScript (ES6): For interactivity and dynamic behavior.
-Local Storage: To save tasks persistently.
+1 HTML5: For the structure and content.
+2 CSS3: For styling and layout.
+3 JavaScript (ES6): For interactivity and dynamic   behavior.
+4 Local Storage: To save tasks persistently.
 ```
