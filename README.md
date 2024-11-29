@@ -20,8 +20,7 @@
 
 ## 📂 **Project Structure**
 
-![alt text](readmeimage.png)
-
+![alt text](readmeimage.PNG)
 ```plaintext
 To-Do-App/
 ├── index.html       # Main HTML file
